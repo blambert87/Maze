@@ -20,6 +20,8 @@ void Maze::printMaze(const char maze[][COLS]);
 	return;
 	else
 		flag = true
+	}
+}	
 
 
 
